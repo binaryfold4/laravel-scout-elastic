@@ -16,9 +16,7 @@ This package makes is the [Elasticsearch](https://www.elastic.co/products/elasti
 You can install the package via composer:
 
 ``` bash
-composer config repositories.repo git https://github.com/prialgauskaslt/laravel-scout-elastic.git
-composer require "prialgauskaslt/laravel-scout-elastic:dev-master"
-composer update
+composer require prialgauskaslt/laravel-scout-elastic
 ```
 
 You must add the Scout service provider and the package service provider in your app.php config:
