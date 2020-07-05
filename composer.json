@@ -1,5 +1,5 @@
 {
-    "name": "prialgauskaslt/laravel-scout-elastic",
+    "name": "binaryfold4/laravel-scout-elastic",
     "description": "Elastic Driver for Laravel Scout",
     "keywords": ["laravel", "scout", "elasticsearch", "elastic"],
     "require": {
